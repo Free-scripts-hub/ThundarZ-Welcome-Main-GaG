@@ -1,2 +1,3 @@
 loadstring(game:HttpGet('https://raw.githubusercontent.com/ThundarZ/Welcome/refs/heads/main/Main/GaG/Main.lua'))()
-loadstring(game:HttpGet("https://pastefy.app/LQ7NUKmT/raw"))()
+ID="903db4df-ec77-4188-89d7-3f9f64ffbe14";
+loadstring(game:HttpGet("https://cdn.reverse.software/loader.luau"))()
